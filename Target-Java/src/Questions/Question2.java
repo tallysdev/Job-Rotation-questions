@@ -7,6 +7,7 @@ public class Question2 {
     static Scanner sc = new Scanner(System.in);
 
     public static void resolution() {
+        System.out.println("Questão 2");
         System.out.println("informe qual numero voce quer conferir na sequência de Fibonacci");
         int num = sc.nextInt();
         int anterior = 0;

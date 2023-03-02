@@ -3,6 +3,7 @@ package Questions;
 public class Question4 {
 
     public static void resolution() {
+        System.out.println("\nQuestão 4");
         double distanciaTotal = 100;
         double velocidadeCarro = 110;
         double velocidadeCaminhao = 80;

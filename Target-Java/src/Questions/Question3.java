@@ -3,6 +3,7 @@ package Questions;
 public class Question3 {
 
     public static void resolution() {
+        System.out.println("Questão 3");
         System.out.println("a) 1, 3, 5, 7, 11");
         System.out.println("b) 2, 4, 8, 16, 32, 64, 128");
         System.out.println("c) 0, 1, 4, 9, 16, 25, 36, 49");
